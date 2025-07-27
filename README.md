@@ -6,7 +6,7 @@ Each voter can vote once between two addresses, and the votes are tracked public
 
 ## 📜 Contract Address
 
-[`0xF151e0E65EbEc5e510dC267FBbd0D31522aF82D9`](https://sepolia.basescan.org/address/0xF151e0E65EbEc5e510dC267FBbd0D31522aF82D9)
+[`0xfE788FD3C03e694AA0faf33CC13aE96971e392Bf`](https://sepolia.basescan.org/address/0xfE788FD3C03e694AA0faf33CC13aE96971e392Bf)
 
 ## 🛠 Features
 
@@ -22,7 +22,7 @@ Deployed to **Base Sepolia Testnet**
 ## 🔗 Verification
 
 Verified on BaseScan:  
-[🔎 View on BaseScan](https://sepolia.basescan.org/address/0xF151e0E65EbEc5e510dC267FBbd0D31522aF82D9)
+[🔎 View on BaseScan](https://sepolia.basescan.org/address/0xfE788FD3C03e694AA0faf33CC13aE96971e392Bf)
 
 ## 📝 License
 
